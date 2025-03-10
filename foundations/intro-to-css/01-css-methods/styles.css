@@ -4,7 +4,11 @@ comment on what is being done per code */
 /* This is a type selector */
 div {
     /* This is a declaration block with property-value pair */
-    color: red;
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
 
 
