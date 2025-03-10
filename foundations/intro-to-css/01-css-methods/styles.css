@@ -1,0 +1,10 @@
+/* Commenting for learning purposes although not a good practice to 
+comment on what is being done per code */
+
+/* This is a type selector */
+div {
+    /* This is a declaration block with property-value pair */
+    color: red;
+}
+
+
